@@ -2,8 +2,7 @@
   <v-app>
     <v-app-bar app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>System</span>
-        <span class="font-weight-light"> Analysis and Design</span>
+        <span>Starter Demo</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       
@@ -12,7 +11,6 @@
     </v-app-bar>
 
     <v-content>
-      <!-- <VideoRental/> -->
       <router-view />
     </v-content>
   </v-app>
@@ -23,7 +21,7 @@
 export default {
   name: 'App',
   data: () => ({
-    username: 'Tanapon Kongjaroensk',
+    username: 'isaman sangbamrung',
   }),
 };
 </script>
