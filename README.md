@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+- install yarn & node
 - yarn install
 - yarn global add @vue/cli@3.1.5
 - npm install
